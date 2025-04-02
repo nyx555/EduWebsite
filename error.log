@@ -1,0 +1,24 @@
+[01-Apr-2025 13:24:22 Europe/Berlin] PHP Warning:  require(../vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\EduWebsite\includes\mailer.php on line 6
+[01-Apr-2025 13:24:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\EduWebsite\includes\mailer.php:6
+Stack trace:
+#0 C:\xampp\htdocs\EduWebsite\api\submit.php(17): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\EduWebsite\includes\mailer.php on line 6
+[01-Apr-2025 13:25:22 Europe/Berlin] PHP Warning:  require(../vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\EduWebsite\includes\mailer.php on line 6
+[01-Apr-2025 13:25:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\EduWebsite\includes\mailer.php:6
+Stack trace:
+#0 C:\xampp\htdocs\EduWebsite\api\submit.php(23): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\EduWebsite\includes\mailer.php on line 6
+[01-Apr-2025 13:27:17 Europe/Berlin] Received data: {"name":"Samir Lamichhane","email":"kgsameer61@gmail.com","interest":"python"}
+[01-Apr-2025 13:27:17 Europe/Berlin] Database connected successfully
+[01-Apr-2025 13:27:17 Europe/Berlin] Data inserted successfully
+[01-Apr-2025 13:34:04 Europe/Berlin] Received data: {"name":"Samir Lamichhane","email":"kgsameer61@gmail.com","interest":"python"}
+[01-Apr-2025 13:34:04 Europe/Berlin] Database connected successfully
+[01-Apr-2025 13:34:04 Europe/Berlin] Data inserted successfully
+[01-Apr-2025 13:40:11 Europe/Berlin] Received data: {"name":"Samir Lamichhane","email":"kgsameer61@gmail.com","interest":"python"}
+[01-Apr-2025 13:40:11 Europe/Berlin] Database connected successfully
+[01-Apr-2025 13:40:11 Europe/Berlin] Data inserted successfully
+[01-Apr-2025 13:45:03 Europe/Berlin] Received data: {"name":"Sonu Lamichhane","email":"share.samir31@gmail.com","interest":"web"}
+[01-Apr-2025 13:45:03 Europe/Berlin] Database connected successfully
+[01-Apr-2025 13:45:03 Europe/Berlin] Data inserted successfully
